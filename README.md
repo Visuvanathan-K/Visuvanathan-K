@@ -1,7 +1,7 @@
 # Intro
 **Hi , I'm Visuvanathan K** 👋 
 
-_Java backend developer from Chennai, Tamil Nadu._
+_Java backend developer from Chennai, Tamil Nadu, India._
 
 ## Currently Building 👨‍💻
 
